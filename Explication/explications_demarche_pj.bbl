@@ -1,0 +1,49 @@
+\begin{thebibliography}{10}
+
+\bibitem{mapp}
+Declarative {Mapping} {Styles} — {SQLAlchemy} 2.0 {Documentation}.
+
+\bibitem{noauthor_plotly_nodate}
+Plotly.
+
+\bibitem{dotenve}
+python-dotenv: {Read} key-value pairs from a .env file and set them as environment variables.
+
+\bibitem{session}
+Session {Basics} — {SQLAlchemy} 2.0 {Documentation}.
+
+\bibitem{subprocess}
+documentation subprocess.
+\newblock subprocess — {Subprocess} management.
+
+\bibitem{Nathan}
+Nathan Friend.
+\newblock Nathan {Friend} / tree.nathanfriend.io · {GitLab}.
+
+\bibitem{memoir}
+Basma Ghaffour.
+\newblock {\em Etude statistique et développement d’indicateurs pour informer le grand public sur les énergies renouvelables}.
+\newblock Mémoire de stage ({M2}), Tours, 2024.
+
+\bibitem{beamer}
+Basma Ghaffour.
+\newblock {\em Etude statistique et développement d’indicateurs pour informer le grand public sur les énergies renouvelables}.
+\newblock Support de présentation (soutenance), Tours, September 2024.
+
+\bibitem{API_OWID}
+{Our World in Data}.
+\newblock {API} - {ETL} documentation.
+
+\bibitem{source_enrg}
+Equipe speciale chargée de l'application de la CCNU-2009 aux ressources~énergétiques renouvelables.
+\newblock Spécifications pour l’application de la {Classification}-cadre des {Nations} {Unies} pour l’énergie fossile et les réserves et ressources minérales 2009 aux sources d’énergie renouvelables, September 2016.
+
+\bibitem{article_UNEP}
+Frankfurt School of~Finance United Nations Environment~Programme and BloombergNEF Management.
+\newblock Global trends in renewable energy investment 2020, 2020 , 2020.
+
+\bibitem{invest}
+Frankfurt School of~Finance United Nations Environment~Programme and BloombergNEF Management.
+\newblock Global trends in renewable energy investment 2020, 2020 , 2020.
+
+\end{thebibliography}
